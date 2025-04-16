@@ -1,4 +1,4 @@
-                                                                                        CODEUNATI:INNOVATION_MARATHON_3.0
+  CODEUNATI:INNOVATION_MARATHON_3.0
 
 
 --------Project Title :  MEDPREDICT----------
@@ -55,6 +55,12 @@ Smart Hospitals and AI-Powered Healthcare
         – AI will optimize hospital operations and improve patient care.
 
 By implementing these future advancements, this project can significantly enhance preventive healthcare, reduce hospital workloads, and improve patient safety and well-being. 
+
+
+image :
+![image](https://github.com/Aravind724/MEDPREDICT/blob/bd8f4bb6ef119174557ea935f2a1985470f269b7/image.png)
+
+
 
 
 
