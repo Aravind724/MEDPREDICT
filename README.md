@@ -1,7 +1,7 @@
-  CODEUNATI:INNOVATION_MARATHON_3.0
+  CODEUNATI : INNOVATION_MARATHON_3.0
 
 
---------Project Title :  MEDPREDICT----------
+--------Project Title : MEDPREDICT----------
            Team ID - 8453
 
 Problem Statement: Predicting and Visualizing Patient Health Conditions Based on Vital Data 
@@ -57,7 +57,7 @@ Smart Hospitals and AI-Powered Healthcare
 By implementing these future advancements, this project can significantly enhance preventive healthcare, reduce hospital workloads, and improve patient safety and well-being. 
 
 
-image :
+IMAGE :
 ![image](https://github.com/Aravind724/MEDPREDICT/blob/bd8f4bb6ef119174557ea935f2a1985470f269b7/image.png)
 
 
